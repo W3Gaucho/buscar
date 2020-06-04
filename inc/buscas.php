@@ -1,5 +1,6 @@
 <?php
 $arr=[
+    '4shared'=>'https://www.4shared.com/web/q/#query=%s&sort=size%2Cdesc',
     'acronimos'=>'https://www.acronymfinder.com/~/search/af.aspx?string=exact&Acronym=%s',
     'addons mozilla'=>'https://addons.mozilla.org/en-US/firefox/search/?q=%s&sort=users&type=extension',
     'alexa'=>'https://alexa.com/siteinfo/%s',
