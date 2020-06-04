@@ -18,7 +18,12 @@
                 require 'inc/erro.php';
                 $buscas=require 'inc/buscas.php';
                 foreach ($buscas as $key => $value) {
-                    print '<option value="'.$key.'">';
+                    if($key=='duck.com'){
+                        $sel=' selected';
+                    }else{
+                        $sel=null;
+                    }
+                    print '<option value="'.$key.'"'.$sel.'>';
                     print $key;
                     print '</option>';
                 }
