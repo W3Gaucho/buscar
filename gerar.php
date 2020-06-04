@@ -4,7 +4,7 @@ $desc='Formulário de busca em diversos sites';
 $arr=require 'inc/buscas.php';
 $sites=null;
 foreach ($arr as $key => $value) {
-    $sites.='- '.$key.PHP_EOL;
+    $sites.='1. '.$key.PHP_EOL;
 }
 $content=<<<heredoc
 # {$title}
