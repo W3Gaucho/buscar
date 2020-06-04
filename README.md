@@ -2,6 +2,7 @@
 Formulário de busca em diversos sites
 
 ## Sites
+- 4shared
 - acronimos
 - addons mozilla
 - alexa
@@ -21,6 +22,7 @@ Formulário de busca em diversos sites
 - linux mint (software)
 - mercado livre
 - packagist
+- soundtrack
 - stackoverflow
 - the pirate bay
 - twitter
