@@ -20,6 +20,7 @@ $arr=[
     'linux mint (software)'=>'https://community.linuxmint.com/software/view/%s',
     'mercado livre'=>'https://lista.mercadolivre.com.br/%s',
     'packagist'=>'https://packagist.org/?query=%s',
+    'soundtrack'=>'http://download-soundtracks.com/?s=%s',
     'stackoverflow'=>'https://stackoverflow.com/search?q=%s',
     'the pirate bay'=>'https://thepiratebay.org/search.php?q=%s&cat=0',
     'twitter'=>'https://twitter.com/search?f=tweets&vertical=default&q=%s filter:verified&src=typd&lang=pt&f=live'
