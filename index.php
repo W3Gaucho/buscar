@@ -12,6 +12,7 @@
     <div style="text-align:center;">
         <h1>Buscar</h1>
         <form class="" action="redirect.php" method="get">
+            <textarea name="q" rows="8" cols="80" id="q"></textarea><br><br>
             <select name="key" class="js-example-basic-single">
                 <?php
                 require 'inc/erro.php';
@@ -23,7 +24,6 @@
                 }
                 ?>
             </select><br><br>
-            <textarea name="q" rows="8" cols="80" id="q"></textarea><br><br>
             <input type="submit" value="Buscar">
         </form>
     </div>
