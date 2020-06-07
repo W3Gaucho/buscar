@@ -18,7 +18,7 @@
                 require 'inc/erro.php';
                 $buscas=require 'inc/buscas.php';
                 foreach ($buscas as $key => $value) {
-                    if($key=='duck.com'){
+                    if($key=='duck'){
                         $sel=' selected';
                     }else{
                         $sel=null;
