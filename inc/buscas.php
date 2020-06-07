@@ -19,6 +19,7 @@ $arr=[
     'google news'=>'https://www.google.com.br/search?tbm=nws&q=%s',
     'linux mint (software)'=>'https://community.linuxmint.com/software/view/%s',
     'mercado livre'=>'https://lista.mercadolivre.com.br/%s',
+    'music (youtube)'=>'https://music.youtube.com/search?q=%s'. 
     'packagist'=>'https://packagist.org/?query=%s',
     'php'=>'https://www.php.net/manual-lookup.php?pattern=%s&scope=quickref',
     'soundtrack'=>'http://download-soundtracks.com/?s=%s',
