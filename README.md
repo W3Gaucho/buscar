@@ -5,6 +5,7 @@ Formulário de busca em diversos sites
 1. 4shared
 1. acronimos
 1. alexa
+1. antônimos
 1. atom
 1. bing
 1. books (b-ok)
