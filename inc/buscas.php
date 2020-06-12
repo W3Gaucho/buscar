@@ -27,6 +27,7 @@ $arr=[
     'translator (bing)'=>'https://www.bing.com/translator/?text=%s&from=auto&to=pt',
     //'twitter'=>'https://twitter.com/search?f=tweets&vertical=default&q=%s filter:verified&src=typd&lang=pt&f=live',
     'videos (bing)'=>'https://www.bing.com/videos/search?&q=%s&qft=+filterui:msite-youtube.com&FORM=VRFLTR',
+    'xvideos'=>'https://www.xvideos.com/?k=%s',
 ];
 ksort($arr);
 return $arr;
