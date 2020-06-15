@@ -25,7 +25,7 @@ $arr=[
     'so (stackoverflow)'=>'https://stackoverflow.com/search?q=%s',
     'tpb (the pirate bay)'=>'https://thepiratebay.org/search.php?q=%s&cat=0',
     'translator (bing)'=>'https://www.bing.com/translator/?text=%s&from=auto&to=pt',
-    //'twitter'=>'https://twitter.com/search?f=tweets&vertical=default&q=%s filter:verified&src=typd&lang=pt&f=live',
+    'twitter'=>'https://twitter.com/search?f=tweets&vertical=default&q=%s filter:verified&src=typd&lang=pt&f=live',
     'videos (bing)'=>'https://www.bing.com/videos/search?&q=%s&qft=+filterui:msite-youtube.com&FORM=VRFLTR',
 ];
 ksort($arr);
