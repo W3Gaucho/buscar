@@ -13,6 +13,7 @@ $arr=[
     'discogs'=>'https://www.discogs.com/search/?q=%s&type=all',
     'emojipedia'=>'https://emojipedia.org/search/?q=%s',
     'extensões (addons mozilla)'=>'https://addons.mozilla.org/en-US/firefox/search/?q=%s&sort=users&type=extension',
+    'globo play'=>'https://globoplay.globo.com/busca/?q=%s',
     'google'=>'https://www.google.com.br/search?q=%s',
     'maps (google)'=>'https://www.google.com.br/maps?hl=pt&q=%s',
     'mercado livre'=>'https://lista.mercadolivre.com.br/%s',

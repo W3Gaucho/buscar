@@ -15,6 +15,7 @@ Formulário de busca em diversos sites
 1. duck
 1. emojipedia
 1. extensões (addons mozilla)
+1. globo play
 1. google
 1. maps (google)
 1. mercado livre
