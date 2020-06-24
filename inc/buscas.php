@@ -28,6 +28,7 @@ $arr=[
     'translator (bing)'=>'https://www.bing.com/translator/?text=%s&from=auto&to=pt',
     'twitter'=>'https://twitter.com/search?f=tweets&vertical=default&q=%s filter:verified&src=typd&lang=pt&f=live',
     'whosampled'=>'https://www.whosampled.com/search/?q=%s',
+    'wikipedia (pt)'=>'https://pt.wikipedia.org/w/index.php?search=%s&title=Especial%3APesquisar&fulltext=Pesquisar&ns0=1',
     'videos (bing)'=>'https://www.bing.com/videos/search?&q=%s&qft=+filterui:msite-youtube.com&FORM=VRFLTR',
 ];
 ksort($arr);
