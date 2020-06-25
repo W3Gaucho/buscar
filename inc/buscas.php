@@ -22,6 +22,7 @@ $arr=[
     'news (google)'=>'https://www.google.com.br/search?tbm=nws&q=%s',
     'ost (soundtrack)'=>'http://download-soundtracks.com/?s=%s',
     'packagist'=>'https://packagist.org/?query=%s',
+    'patentes (google)'=>'https://patents.google.com/?q=%s',
     'php'=>'https://www.php.net/manual-lookup.php?pattern=%s&scope=quickref',
     'so (stackoverflow)'=>'https://stackoverflow.com/search?q=%s',
     'tpb (the pirate bay)'=>'https://thepiratebay.org/search.php?q=%s&cat=0',
