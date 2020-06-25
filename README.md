@@ -24,6 +24,7 @@ Formulário de busca em diversos sites
 1. news (google)
 1. ost (soundtrack)
 1. packagist
+1. patentes (google)
 1. php
 1. so (stackoverflow)
 1. tpb (the pirate bay)
@@ -31,3 +32,4 @@ Formulário de busca em diversos sites
 1. twitter
 1. videos (bing)
 1. whosampled
+1. wikipedia (pt)
