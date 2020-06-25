@@ -12,6 +12,7 @@ Formulário de busca em diversos sites
 1. buscape
 1. dicio
 1. discogs
+1. documentários (dailymotion)
 1. duck
 1. emojipedia
 1. extensões (addons mozilla)

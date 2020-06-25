@@ -11,6 +11,7 @@ $arr=[
     'duck'=>'https://duckduckgo.com/?kl=br-pt&q=%s&ia=web',
     'dicio'=>'https://www.dicio.com.br/pesquisa.php?q=%s',
     'discogs'=>'https://www.discogs.com/search/?q=%s&type=all',
+    'documentários (dailymotion)'=>'https://duckduckgo.com/?q=%s+site%3Adailymotion.com&kl=br-pt&iar=videos&iax=videos&ia=videos&iaf=videoDuration%3Along',
     'emojipedia'=>'https://emojipedia.org/search/?q=%s',
     'extensões (addons mozilla)'=>'https://addons.mozilla.org/en-US/firefox/search/?q=%s&sort=users&type=extension',
     'globo play'=>'https://globoplay.globo.com/busca/?q=%s',
