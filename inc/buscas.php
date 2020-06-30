@@ -16,6 +16,7 @@ $arr=[
     'extensões (addons mozilla)'=>'https://addons.mozilla.org/en-US/firefox/search/?q=%s&sort=users&type=extension',
     'globo play'=>'https://globoplay.globo.com/busca/?q=%s',
     'google'=>'https://www.google.com.br/search?q=%s',
+    'magnedl'=>'https://www.magnetdl.com/n/%s/',
     'maps (google)'=>'https://www.google.com.br/maps?hl=pt&q=%s',
     'mercado livre'=>'https://lista.mercadolivre.com.br/%s',
     'mint (linux mint)'=>'https://community.linuxmint.com/software/view/%s',
