@@ -7,13 +7,17 @@
     <script src="js/jquery-3.5.1.min.js"></script>
     <script src="js/select2.min.js"></script>
     <script src="js/i18n/pt-BR.js"></script>
+    <style>
+    button{
+        cursor:pointer;
+    }
+    </style>
 </head>
 <body>
     <div style="text-align:center;">
         <h1>Buscar</h1>
         <form class="" action="redirect.php" method="get">
-            <textarea name="q" rows="8" cols="80" id="q"></textarea><br><br>
-            <select name="key" class="js-example-basic-single">
+            <select id="caixaDeSites" name="key" class="js-example-basic-single">
                 <?php
                 require 'inc/erro.php';
                 $buscas=require 'inc/buscas.php';
@@ -29,7 +33,8 @@
                 }
                 ?>
             </select><br><br>
-            <input type="submit" value="Buscar">
+            <textarea name="q" rows="8" cols="80" id="q"></textarea><br><br>
+            <button type="submit">Buscar</button>
         </form>
     </div>
     <script>
@@ -41,14 +46,17 @@
                 this.form.submit();
             }
         });
-        //focar no textarea
-        $("textarea").focus();
         //fuzzy search
         $('.js-example-basic-single').select2({
             theme: "classic",
             language: "pt-BR"
         });
+        //focar no textarea
+        $('#caixaDeSites').select2('open');
 
+        $('#caixaDeSites').on('select2:select', function (e) { 
+            //$('textarea').focus();
+        });
     });
 </script>
 </body>
