@@ -18,6 +18,8 @@ Formulário de busca em diversos sites
 1. extensões (addons mozilla)
 1. globo play
 1. google
+1. imdb
+1. magnetdl
 1. maps (google)
 1. mercado livre
 1. mint (linux mint)
@@ -33,4 +35,4 @@ Formulário de busca em diversos sites
 1. twitter
 1. videos (bing)
 1. whosampled
-1. wikipedia (pt)
+1. wikipedia (todas)
