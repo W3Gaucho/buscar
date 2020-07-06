@@ -17,6 +17,7 @@ $arr=[
     'globo play'=>'https://globoplay.globo.com/busca/?q=%s',
     'google'=>'https://www.google.com.br/search?q=%s',
     'imdb'=>'https://www.imdb.com/find?q=%s&ref_=nv_sr_sm',
+    'instagram'=>'https://duckduckgo.com/?q=%s+site%3Ainstagram.com&kl=br-pt&ia=web',
     'magnetdl'=>'https://www.magnetdl.com/n/%s/',
     'maps (google)'=>'https://www.google.com.br/maps?hl=pt&q=%s',
     'mercado livre'=>'https://lista.mercadolivre.com.br/%s',
