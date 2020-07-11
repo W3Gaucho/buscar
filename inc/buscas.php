@@ -24,6 +24,7 @@ $arr=[
     'mint (linux mint)'=>'https://community.linuxmint.com/software/view/%s',
     'music (youtube)'=>'https://music.youtube.com/search?q=%s',
     'news (google)'=>'https://www.google.com.br/search?tbm=nws&q=%s',
+    'ok.ru'=>'https://duckduckgo.com/?q=site%3Ahttps%3A%2F%2Fok.ru%2Fvideo%2F+%s+dublado&kl=br-pt&ia=web',
     'ost (soundtrack)'=>'http://download-soundtracks.com/?s=%s',
     'packagist'=>'https://packagist.org/?query=%s',
     'patentes (google)'=>'https://patents.google.com/?q=%s',

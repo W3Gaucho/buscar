@@ -26,6 +26,7 @@ Formulário de busca em diversos sites
 1. mint (linux mint)
 1. music (youtube)
 1. news (google)
+1. ok.ru
 1. ost (soundtrack)
 1. packagist
 1. patentes (google)
