@@ -19,6 +19,7 @@ Formulário de busca em diversos sites
 1. globo play
 1. google
 1. imdb
+1. instagram
 1. magnetdl
 1. maps (google)
 1. mercado livre

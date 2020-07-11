@@ -18,7 +18,7 @@ $arr=[
     'google'=>'https://www.google.com.br/search?q=%s',
     'imdb'=>'https://www.imdb.com/find?q=%s&ref_=nv_sr_sm',
     'instagram'=>'https://duckduckgo.com/?q=%s+site%3Ainstagram.com&kl=br-pt&ia=web',
-    'magnetdl'=>'https://www.magnetdl.com/n/%s/',
+    'magnetdl'=>'https://www.magnetdl.com/search/?q=%s&m=1&x=29&y=15',
     'maps (google)'=>'https://www.google.com.br/maps?hl=pt&q=%s',
     'mercado livre'=>'https://lista.mercadolivre.com.br/%s',
     'mint (linux mint)'=>'https://community.linuxmint.com/software/view/%s',
