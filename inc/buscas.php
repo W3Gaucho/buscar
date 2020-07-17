@@ -31,6 +31,7 @@ $arr=[
     'patentes (google)'=>'https://patents.google.com/?q=%s',
     'php'=>'https://www.php.net/manual-lookup.php?pattern=%s&scope=quickref',
     'reclame aqui'=>'https://www.reclameaqui.com.br/busca/?q=%s',
+    'rottentomatoes'=>'https://www.rottentomatoes.com/search?search=%s',
     'so (stackoverflow)'=>'https://stackoverflow.com/search?q=%s',
     'tpb (the pirate bay)'=>'https://thepiratebay.org/search.php?q=%s&cat=0',
     'translator (bing)'=>'https://www.bing.com/translator/?text=%s&from=auto&to=pt',
