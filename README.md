@@ -13,6 +13,7 @@ Formulário de busca em diversos sites
 1. dicio
 1. discogs
 1. documentários (dailymotion)
+1. down (isitdownrightnow.com)
 1. duck
 1. emojipedia
 1. extensões (addons mozilla)
@@ -32,6 +33,8 @@ Formulário de busca em diversos sites
 1. packagist
 1. patentes (google)
 1. php
+1. reclame aqui
+1. rottentomatoes
 1. so (stackoverflow)
 1. tpb (the pirate bay)
 1. translator (bing)

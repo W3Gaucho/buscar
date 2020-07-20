@@ -12,6 +12,7 @@ $arr=[
     'dicio'=>'https://www.dicio.com.br/pesquisa.php?q=%s',
     'discogs'=>'https://www.discogs.com/search/?q=%s&type=all',
     'documentários (dailymotion)'=>'https://duckduckgo.com/?q=%s+site%3Adailymotion.com&kl=br-pt&iar=videos&iax=videos&ia=videos&iaf=videoDuration%3Along',
+    'down (isitdownrightnow.com)'=>'https://www.isitdownrightnow.com/downorjustme.php?url=%s',
     'emojipedia'=>'https://emojipedia.org/search/?q=%s',
     'extensões (addons mozilla)'=>'https://addons.mozilla.org/en-US/firefox/search/?q=%s&sort=users&type=extension',
     'globo play'=>'https://globoplay.globo.com/busca/?q=%s',

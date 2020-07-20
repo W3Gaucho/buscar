@@ -22,7 +22,7 @@
                 require 'inc/erro.php';
                 $buscas=require 'inc/buscas.php';
                 foreach ($buscas as $key => $value) {
-                    if($key=='dicio'){
+                    if($key=='wikipedia (todas)'){
                         $sel=' selected';
                     }else{
                         $sel=null;
