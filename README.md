@@ -33,6 +33,7 @@ Formulário de busca em diversos sites
 1. packagist
 1. patentes (google)
 1. php
+1. quora
 1. reclame aqui
 1. rottentomatoes
 1. so (stackoverflow)

@@ -31,6 +31,7 @@ $arr=[
     'packagist'=>'https://packagist.org/?query=%s',
     'patentes (google)'=>'https://patents.google.com/?q=%s',
     'php'=>'https://www.php.net/manual-lookup.php?pattern=%s&scope=quickref',
+    'quora'=>'https://www.quora.com/search?q=%s',
     'reclame aqui'=>'https://www.reclameaqui.com.br/busca/?q=%s',
     'rottentomatoes'=>'https://www.rottentomatoes.com/search?search=%s',
     'so (stackoverflow)'=>'https://stackoverflow.com/search?q=%s',
