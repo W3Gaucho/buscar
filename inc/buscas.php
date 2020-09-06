@@ -15,6 +15,7 @@ $arr=[
     'down (isitdownrightnow.com)'=>'https://www.isitdownrightnow.com/downorjustme.php?url=%s',
     'emojipedia'=>'https://emojipedia.org/search/?q=%s',
     'extensões (addons mozilla)'=>'https://addons.mozilla.org/en-US/firefox/search/?q=%s&sort=users&type=extension',
+    'genius'=>'https://genius.com/search?q=%s',
     'globo play'=>'https://globoplay.globo.com/busca/?q=%s',
     'google'=>'https://www.google.com.br/search?q=%s',
     'imagens (getty)'=>'https://www.gettyimages.com.br/search/2/image?phrase=%s',
