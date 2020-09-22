@@ -26,6 +26,7 @@ Formulário de busca em diversos sites
 1. magnetdl
 1. maps (google)
 1. mercado livre
+1. midi
 1. mint (linux mint)
 1. music (youtube)
 1. news (google)

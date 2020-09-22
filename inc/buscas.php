@@ -24,6 +24,7 @@ $arr=[
     'magnetdl'=>'https://www.magnetdl.com/search/?q=%s&m=1&x=29&y=15',
     'maps (google)'=>'https://www.google.com.br/maps?hl=pt&q=%s',
     'mercado livre'=>'https://lista.mercadolivre.com.br/%s',
+    'midi'=>'http://www.midi-karaoke.info/search.php?text=%s',
     'mint (linux mint)'=>'https://community.linuxmint.com/software/view/%s',
     'music (youtube)'=>'https://music.youtube.com/search?q=%s',
     'news (google)'=>'https://www.google.com.br/search?tbm=nws&q=%s',
