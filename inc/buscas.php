@@ -19,6 +19,7 @@ $arr=[
     'globo play'=>'https://globoplay.globo.com/busca/?q=%s',
     'google'=>'https://www.google.com.br/search?q=%s',
     'imagens (getty)'=>'https://www.gettyimages.com.br/search/2/image?phrase=%s',
+    'informal'=>'https://www.dicionarioinformal.com.br/%s/',
     'imdb'=>'https://www.imdb.com/find?q=%s&ref_=nv_sr_sm',
     'instagram'=>'https://duckduckgo.com/?q=%s+site%3Ainstagram.com&kl=br-pt&ia=web',
     'magnetdl'=>'https://www.magnetdl.com/search/?q=%s&m=1&x=29&y=15',

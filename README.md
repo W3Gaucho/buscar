@@ -22,6 +22,7 @@ Formulário de busca em diversos sites
 1. google
 1. imagens (getty)
 1. imdb
+1. informal
 1. instagram
 1. magnetdl
 1. maps (google)
