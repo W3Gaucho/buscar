@@ -16,6 +16,7 @@ $arr=[
     'emojipedia'=>'https://emojipedia.org/search/?q=%s',
     'extensões (addons mozilla)'=>'https://addons.mozilla.org/en-US/firefox/search/?q=%s&sort=users&type=extension',
     'genius'=>'https://genius.com/search?q=%s',
+    'github'=>'https://github.com/search?q=+%s+&type=repositories',
     'globo play'=>'https://globoplay.globo.com/busca/?q=%s',
     'google'=>'https://www.google.com.br/search?q=%s',
     'imagens (getty)'=>'https://www.gettyimages.com.br/search/2/image?phrase=%s',

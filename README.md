@@ -18,6 +18,7 @@ Formulário de busca em diversos sites
 1. emojipedia
 1. extensões (addons mozilla)
 1. genius
+1. github
 1. globo play
 1. google
 1. imagens (getty)
