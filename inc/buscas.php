@@ -10,7 +10,7 @@ $arr=[
     //'buscape'=>'https://www.buscape.com.br/search?page=1&invalidPath=false&sortBy=prod_items_sort_by_price_asc&q=%s&no-shortcut=1',
     //'duck'=>'https://duckduckgo.com/?kl=br-pt&q=%s&ia=web',
     //'dicio'=>'https://www.dicio.com.br/pesquisa.php?q=%s',
-    'dicio'=>'https://context.reverso.net/traducao/portugues-ingles/%s',
+    'dicio'=>'https://pt.wiktionary.org/wiki/Especial:Pesquisar?search=%s&go=Definir',
     //'discogs'=>'https://www.discogs.com/search/?q=%s&type=all',
     //'documentários (dailymotion)'=>'https://duckduckgo.com/?q=%s+site%3Adailymotion.com&kl=br-pt&iar=videos&iax=videos&ia=videos&iaf=videoDuration%3Along',
     //'emojipedia'=>'https://emojipedia.org/search/?q=%s',
@@ -39,6 +39,7 @@ $arr=[
     //'quora'=>'https://www.quora.com/search?q=%s',
     //'reclame aqui'=>'https://www.reclameaqui.com.br/busca/?q=%s',
     //'rottentomatoes'=>'https://www.rottentomatoes.com/search?search=%s',
+    'reverso'=>'https://context.reverso.net/traducao/portugues-ingles/%s',
     'so'=>'https://stackoverflow.com/search?q=%s',
     //'tpb (the pirate bay)'=>'https://thepiratebay.org/search.php?q=%s&cat=0',
     //'translator (bing)'=>'https://www.bing.com/translator/?text=%s&from=auto&to=pt',
@@ -46,7 +47,6 @@ $arr=[
     //'whosampled'=>'https://www.whosampled.com/search/?q=%s',
     //'wikipedia (todas)'=>'https://duckduckgo.com/?kl=br-pt&q=%s+site%3Awikipedia.org&ia=web',
     //'unicode'=>'https://unicode-table.com/pt/search/?q=%s',
-    'wiktionary'=>'https://pt.wiktionary.org/wiki/Especial:Pesquisar?search=%s&go=Definir',
     //'videos (bing)'=>'https://www.bing.com/videos/search?&q=%s&qft=+filterui:msite-youtube.com&FORM=VRFLTR',
 ];
 ksort($arr);

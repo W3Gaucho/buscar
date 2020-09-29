@@ -8,5 +8,5 @@ Formulário de busca em diversos sites
 1. globo play
 1. packagist
 1. php
+1. reverso
 1. so
-1. wiktionary
