@@ -19,7 +19,7 @@ $arr=[
     'github'=>'https://github.com/search?q=+%s+&type=repositories',
     'globo play'=>'https://globoplay.globo.com/busca/?q=%s',
     //'google'=>'https://www.google.com.br/search?q=%s',
-    //'imagens (getty)'=>'https://www.gettyimages.com.br/search/2/image?phrase=%s',
+    //'imagens (getty)'=>'https://www.gettyimages.com.br/search/2/image?phrase=%s&m=free',
     //'informal'=>'https://www.dicionarioinformal.com.br/%s/',
     'icon'=>'https://fontawesome.com/icons?d=gallery&q=%s',
     'imdb'=>'https://www.imdb.com/find?q=%s&ref_=nv_sr_sm',
