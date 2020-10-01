@@ -6,6 +6,7 @@ Formulário de busca em diversos sites
 1. dicio
 1. github
 1. globo play
+1. icon
 1. imdb
 1. packagist
 1. php

@@ -21,6 +21,7 @@ $arr=[
     //'google'=>'https://www.google.com.br/search?q=%s',
     //'imagens (getty)'=>'https://www.gettyimages.com.br/search/2/image?phrase=%s',
     //'informal'=>'https://www.dicionarioinformal.com.br/%s/',
+    'icon'=>'https://fontawesome.com/icons?d=gallery&q=%s',
     'imdb'=>'https://www.imdb.com/find?q=%s&ref_=nv_sr_sm',
     //'instagram'=>'https://duckduckgo.com/?q=%s+site%3Ainstagram.com&kl=br-pt&ia=web',
     //'is down'=>'https://www.isitdownrightnow.com/downorjustme.php?url=%s',
