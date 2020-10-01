@@ -4,6 +4,8 @@ Formulário de busca em diversos sites
 ## Sites
 1. antônimos
 1. dicio
+1. discogs
+1. docs
 1. github
 1. globo play
 1. icon
@@ -13,3 +15,4 @@ Formulário de busca em diversos sites
 1. reverso
 1. so
 1. tpb
+1. videos

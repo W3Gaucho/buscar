@@ -12,7 +12,7 @@ $arr=[
     //'dicio'=>'https://www.dicio.com.br/pesquisa.php?q=%s',
     'dicio'=>'https://pt.wiktionary.org/wiki/Especial:Pesquisar?search=%s&go=Definir',
     'discogs'=>'https://www.discogs.com/search/?q=%s&type=all',
-    //'documentários (dailymotion)'=>'https://duckduckgo.com/?q=%s+site%3Adailymotion.com&kl=br-pt&iar=videos&iax=videos&ia=videos&iaf=videoDuration%3Along',
+    'docs'=>'https://duckduckgo.com/?q=%s+site%3Adailymotion.com&kl=br-pt&iar=videos&iax=videos&ia=videos&iaf=videoDuration%3Along',
     //'emojipedia'=>'https://emojipedia.org/search/?q=%s',
     //'extensões (addons mozilla)'=>'https://addons.mozilla.org/en-US/firefox/search/?q=%s&sort=users&type=extension',
     //'genius'=>'https://genius.com/search?q=%s',
@@ -48,7 +48,7 @@ $arr=[
     //'whosampled'=>'https://www.whosampled.com/search/?q=%s',
     //'wikipedia (todas)'=>'https://duckduckgo.com/?kl=br-pt&q=%s+site%3Awikipedia.org&ia=web',
     //'unicode'=>'https://unicode-table.com/pt/search/?q=%s',
-    //'videos (bing)'=>'https://www.bing.com/videos/search?&q=%s&qft=+filterui:msite-youtube.com&FORM=VRFLTR',
+    'videos'=>'https://www.bing.com/videos/search?&q=%s&qft=+filterui:msite-youtube.com&FORM=VRFLTR',
 ];
 ksort($arr);
 return $arr;
