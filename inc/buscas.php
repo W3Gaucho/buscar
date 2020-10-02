@@ -13,7 +13,7 @@ $arr=[
     'dicio'=>'https://pt.wiktionary.org/wiki/Especial:Pesquisar?search=%s&go=Definir',
     'discogs'=>'https://www.discogs.com/search/?q=%s&type=all',
     'docs'=>'https://duckduckgo.com/?q=%s+site%3Adailymotion.com&kl=br-pt&iar=videos&iax=videos&ia=videos&iaf=videoDuration%3Along',
-    'down'=>'https://www.isitdownrightnow.com/downorjustme.php?url=%s',
+    'down'=>'https://downforeveryoneorjustme.com/%s',
     //'emojipedia'=>'https://emojipedia.org/search/?q=%s',
     //'extensões (addons mozilla)'=>'https://addons.mozilla.org/en-US/firefox/search/?q=%s&sort=users&type=extension',
     //'genius'=>'https://genius.com/search?q=%s',
