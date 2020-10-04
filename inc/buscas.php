@@ -30,7 +30,7 @@ $arr=[
     //'mercado livre'=>'https://lista.mercadolivre.com.br/%s',
     //'midi'=>'http://www.midi-karaoke.info/search.php?text=%s',
     //'mint (linux mint)'=>'https://community.linuxmint.com/software/view/%s',
-    //'music (youtube)'=>'https://music.youtube.com/search?q=%s',
+    'music'=>'https://music.youtube.com/search?q=%s',
     //'news (google)'=>'https://www.google.com.br/search?tbm=nws&q=%s',
     //'ok.ru'=>'https://duckduckgo.com/?q=site%3Ahttps%3A%2F%2Fok.ru%2Fvideo%2F+%s+dublado&kl=br-pt&ia=web',
     //'ost (soundtrack)'=>'http://download-soundtracks.com/?s=%s',
