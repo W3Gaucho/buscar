@@ -1,6 +1,6 @@
 <?php
 $arr=[
-    //'4shared'=>'https://www.4shared.com/web/q/#query=%s&sort=size%2Cdesc',
+    '4shared'=>'https://www.4shared.com/web/q/#query=%s&sort=size%2Cdesc',
     //'acronimos'=>'https://www.acronymfinder.com/~/search/af.aspx?string=exact&Acronym=%s',
     //'alexa'=>'https://alexa.com/siteinfo/%s',
     'antônimos'=>'https://www.antonimos.com.br/busca.php?q=%s',
