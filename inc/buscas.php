@@ -2,7 +2,7 @@
 $arr=[
     '4shared'=>'https://www.4shared.com/web/q/#query=%s&sort=size%2Cdesc',
     //'acronimos'=>'https://www.acronymfinder.com/~/search/af.aspx?string=exact&Acronym=%s',
-    //'alexa'=>'https://alexa.com/siteinfo/%s',
+    'alexa'=>'https://alexa.com/siteinfo/%s',
     'antônimos'=>'https://www.antonimos.com.br/busca.php?q=%s',
     //'atom'=>'https://atom.io/packages/search?q=%s',
     'books'=>'https://b-ok.lat/s/?q=%s',
