@@ -4,6 +4,7 @@ $arr=[
     //'acronimos'=>'https://www.acronymfinder.com/~/search/af.aspx?string=exact&Acronym=%s',
     'alexa'=>'https://alexa.com/siteinfo/%s',
     'antônimos'=>'https://www.antonimos.com.br/busca.php?q=%s',
+    'archive'=>'https://archive.org/search.php?query=%s',
     //'atom'=>'https://atom.io/packages/search?q=%s',
     'books'=>'https://b-ok.lat/s/?q=%s',
     //'bing'=>'https://www.bing.com/search?q=%s',

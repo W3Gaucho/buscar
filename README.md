@@ -5,6 +5,7 @@ Formulário de busca em diversos sites
 1. 4shared
 1. alexa
 1. antônimos
+1. archive
 1. books
 1. dicio
 1. discogs
