@@ -43,7 +43,7 @@ $arr=[
     //'rottentomatoes'=>'https://www.rottentomatoes.com/search?search=%s',
     'reverso'=>'https://context.reverso.net/traducao/portugues-ingles/%s',
     'so'=>'https://stackoverflow.com/search?q=%s',
-    'tpb'=>'https://thepiratebay.org/search.php?q=%s&cat=0',
+    'tpb'=>'https://www.pirate-bay.net/search?q=windows+loader?q=%s',
     //'translator (bing)'=>'https://www.bing.com/translator/?text=%s&from=auto&to=pt',
     //'twitter'=>'https://twitter.com/search?f=tweets&vertical=default&q=%s filter:verified&src=typd&lang=pt&f=live',
     'whosampled'=>'https://www.whosampled.com/search/?q=%s',
