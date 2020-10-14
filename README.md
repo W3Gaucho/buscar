@@ -3,6 +3,7 @@ Formulário de busca em diversos sites
 
 ## Sites
 1. 4shared
+1. acronimos
 1. alexa
 1. antônimos
 1. archive
