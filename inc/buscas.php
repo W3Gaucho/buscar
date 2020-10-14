@@ -45,7 +45,7 @@ $arr=[
     'so'=>'https://stackoverflow.com/search?q=%s',
     'tpb'=>'https://www.pirate-bay.net/search?q=windows+loader?q=%s',
     //'translator (bing)'=>'https://www.bing.com/translator/?text=%s&from=auto&to=pt',
-    //'twitter'=>'https://twitter.com/search?f=tweets&vertical=default&q=%s filter:verified&src=typd&lang=pt&f=live',
+    'twitter'=>'https://twitter.com/search?f=tweets&vertical=default&q=%s filter:verified&src=typd&lang=pt&f=live',
     'whosampled'=>'https://www.whosampled.com/search/?q=%s',
     //'wikipedia (todas)'=>'https://duckduckgo.com/?kl=br-pt&q=%s+site%3Awikipedia.org&ia=web',
     //'unicode'=>'https://unicode-table.com/pt/search/?q=%s',

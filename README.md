@@ -22,5 +22,6 @@ Formulário de busca em diversos sites
 1. reverso
 1. so
 1. tpb
+1. twitter
 1. videos
 1. whosampled
